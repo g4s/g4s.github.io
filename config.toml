@@ -1,0 +1,8 @@
+baseURL = "blog.g4s3.de/"
+languageCode = "de-de"
+theme = "terminal"
+paginate = 5
+#
+#
+#[params]
+#  themeColor = "green"
