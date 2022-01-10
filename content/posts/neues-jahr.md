@@ -2,7 +2,9 @@
 title: "Neues Jahr, neuer Blog?"
 date: 2022-01-03T13:46:30Z
 draft: true
-tags: 'homelabinabox'
+tags: ['homelabinabox']
+series: 'homelabinabox'
+readingTime: true
 ---
 Ja, ja immer wieder irgendwie das leidige Thema: viele Menschen wollen
 immer unbedingt "Vorsätze" fürs neue Jahr setzen. Persönliche Meinung - 
